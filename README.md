@@ -1,6 +1,6 @@
 # GPT Function Calling – RSI Crypto Trading Assistant
 
-This is a step-by-step demo of OpenAI's function calling feature using Python. It walks you through building a simple crypto trading assistant that analyzes RSI (Relative Strength Index) using real-time OHLC data from Binance. This code is part of the blog post: [Build a Crypto Bot Using OpenAI Function Calling]([http://](https://blog.adnansiddiqi.me/build-a-crypto-bot-using-openai-function-calling/))
+This is a step-by-step demo of OpenAI's function calling feature using Python. It walks you through building a simple crypto trading assistant that analyzes RSI (Relative Strength Index) using real-time OHLC data from Binance. This code is part of the blog post: [Build a Crypto Bot Using OpenAI Function Calling]([http://](https://blog.adnansiddiqi.me/build-a-crypto-bot-using-openai-function-calling/)
 
 
 ## 🚀 Features
